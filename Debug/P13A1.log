@@ -1,0 +1,5 @@
+﻿  P13A1.cpp
+c:\users\kamer001\desktop\uni\programmieren\für d 16.01.2017\p13a1\p13a1.cpp(38): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+c:\users\kamer001\desktop\uni\programmieren\für d 16.01.2017\p13a1\p13a1.cpp(408): warning C4715: "raten": Nicht alle Steuerelementpfade geben einen Wert zurück.
+  P13A1.vcxproj -> C:\Users\kamer001\Desktop\Uni\Programmieren\Für d 16.01.2017\P13A1\Debug\P13A1.exe
+  P13A1.vcxproj -> C:\Users\kamer001\Desktop\Uni\Programmieren\Für d 16.01.2017\P13A1\Debug\P13A1.pdb (Partial PDB)
